@@ -251,8 +251,7 @@ while 1:
 
 ## OUTPUT
 
-<img width="807" height="695" alt="image" src="https://github.com/user-attachments/assets/b60f7f51-5011-4828-a35a-4139bc0aa0bf" />
-<img width="630" height="432" alt="image" src="https://github.com/user-attachments/assets/7611ed9c-5642-4c1c-abde-bf2c0e9d6848" />
+<img width="369" height="782" alt="Screenshot 2025-10-24 140858" src="https://github.com/user-attachments/assets/e49a32b6-a5e6-4d6c-b4b7-110a4936f7b0" />
 
 
 ## RESULT
